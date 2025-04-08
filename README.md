@@ -1,4 +1,4 @@
-# Quantum-Computing
+# Digital Quantum Simulations
 
 <p align="center">
   <img src="output/3spinmagnetization.png" alt="Three-spin magnetization" width="30%">
